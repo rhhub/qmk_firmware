@@ -37,8 +37,8 @@
         "RCTL_T(KC_COMM)",
         "RALT_T(KC_DOT)",
         "RGUI_T(KC_SLSH)",
-        "LT(2,KC_SPC)",
-        "LT(4,KC_TAB)",
+        "LT(2,KC_TAB)",
+        "LT(4,KC_SPC)",
         "LT(5,KC_ENT)",
         "LT(3,KC_BSPC)"
       ],
@@ -73,8 +73,8 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_SPC",
         "KC_TRNS",
+        "KC_SPC",
         "KC_TRNS",
         "KC_TRNS"
       ],
