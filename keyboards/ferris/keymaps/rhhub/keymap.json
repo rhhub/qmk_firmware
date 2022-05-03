@@ -167,10 +167,10 @@
         "LSFT_T(KC_4)",
         "KC_5",
         "KC_6",
-        "RSFT(KC_7)",
-        "RCTL(KC_8)",
-        "RALT(KC_9)",
-        "RGUI(KC_0)",
+        "RSFT_T(KC_7)",
+        "RCTL_T(KC_8)",
+        "RALT_T(KC_9)",
+        "RGUI_T(KC_0)",
         "KC_NO",
         "KC_GRV",
         "KC_BSLS",
@@ -181,10 +181,10 @@
         "KC_QUOT",
         "KC_LBRC",
         "KC_RBRC",
-        "KC_NO",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_NO"
+        "KC_TRNS",
+        "KC_TRNS"
       ],
       [
         "KC_F1",
