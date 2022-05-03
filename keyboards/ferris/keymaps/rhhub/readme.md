@@ -10,10 +10,12 @@ What do all these layers do?
 Contains Miryoku inspired tap hold modifiers on the home position.
 
 ### Layer 1: Gaming Layer
-A copy of layer 0 but disables the hold functionality of space bar to accomodate certain games. Intended to be used with esdf arrow keys. 
+A copy of layer 0 but disables the hold functionality of space bar and ASDF to accomodate games. Intended to be used with ESDF or ASDF arrow keys. 
 
 ### Layer 2 (left outer thumb key):
 Miryoku style navigation layer.
 
 ### Layer 4 and 5 (inner thumb keys): 
-1st row: function keys, 2nd row: numbers with symols, 3rd row: the remaining symbols and the esc key. Adapted for gaming 1 handed.
+1st row: function keys, 2nd row: numbers with symols, 3rd row: the remaining symbols. Adapted for gaming 1 handed.
+
+### Layer 5 (not in use)
