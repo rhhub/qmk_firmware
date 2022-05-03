@@ -109,10 +109,10 @@
         "KC_PGDN",
         "KC_PGUP",
         "KC_END",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO"
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS"
       ],
       [
         "KC_F11",
@@ -145,10 +145,10 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO",
-        "KC_NO"
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS"
       ],
       [
         "KC_F1",
